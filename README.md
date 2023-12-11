@@ -1,5 +1,5 @@
 ## Introduction
-Hello! It's my pet-project for upgrading and demonstrating my skills.
+Hello! It's my pet-project for upgrading and demonstrating my skills. (but! it is used for practical work and is useful)
 
 The essence of the project is to calculate the cost of storing goods from online marketplaces (in this case Ozon) and to visualize some analytics
 That's why project was created: This online marketplace provides rather inconvenient reports for calculating the amount of storage of goods, so to simplify it, it was decided to create a similar solution that would be convenient for the company and correlate the values in the final table, as well as save all the results to the database.
