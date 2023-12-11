@@ -128,8 +128,4 @@ dmypy.json
 cython_debug/
 
 # Used files
-created/
-used/
-graphics/
-summary_reports/weekly_sum_*
 storage.db
